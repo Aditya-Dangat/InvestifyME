@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227284515983",
+    "project_id": "investify-5c9ee",
+    "storage_bucket": "investify-5c9ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227284515983:android:ca96c276ec41ebbc07c4fa",
+        "android_client_info": {
+          "package_name": "com.example.investifyme_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVohiauBRHzsam-k8X-o5nPJC9uE4xwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
